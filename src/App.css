@@ -1,0 +1,10 @@
+.list ul {
+  margin: 0;
+  list-style: none;
+  text-decoration: non;
+  justify-content: center;
+}
+
+.list ul strong {
+  color: green;
+}
